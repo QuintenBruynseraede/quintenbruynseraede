@@ -38,7 +38,7 @@ Recently, I have created:
 - [tf-profile](https://www.github.com/datarootsio/tf-profile) is a tool to parse Terraform logs | <i>Go, Terraform</i>
 - [terraform-provider-dagster](https://www.github.com/datarootsio/terraform-provider-dagster) is a Terraform provider for Dagster | <i>Go, Terraform, Dagster</i>
 - [car-simulator](https://www.github.com/quintenbruynseraede/car-simulator) simulates the electronics in a car in an event-driven manner | <i>Go</i>
-- [time2go](https://www.github.io/quintenbruynseraede/time2go) is a web app to find the best time to do some exercise | <i>Go, HTMX, TailwindCSS</i>
+- [time2go](https://www.github.com/quintenbruynseraede/time2go) is a web app to find the best time to do some exercise | <i>Go, HTMX, TailwindCSS</i>
 
 I have contributed to:
 
