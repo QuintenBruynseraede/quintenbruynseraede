@@ -27,9 +27,7 @@ I mainly work with:
 
 ## <h3>Interests<h3>
 
-In no particular order:
-
-Software engineering, distributed computing, infrastructure as code, event-driven architectures, cloud architecture
+Software engineering • distributed computing • infrastructure as code • event-driven architectures • cloud architecture
 
 ## <h3>Projects</h3>
 
