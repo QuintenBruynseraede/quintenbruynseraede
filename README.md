@@ -25,6 +25,12 @@ I mainly work with:
 - <b>Cloud platforms:</b> AWS
 - <b>IaC:</b> Terraform
 
+## <h3>Interests<h3>
+
+In no particular order:
+
+Software engineering, distributed computing, infrastructure as code, event-driven architectures, cloud architecture
+
 ## <h3>Projects</h3>
 
 On the side, I like to work on miscellaneous projects, some useful, some not so much.
