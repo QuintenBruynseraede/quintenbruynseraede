@@ -23,7 +23,7 @@ jobs:
           gh_token_stats: ${{ env.GH_PAT }}
           gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
           header: "👋 Hi, I'm"
-          about: "Data & Cloud Engineer. Likes golang, game programming and everything Kubernetes."
+          about: "Data & Cloud Engineer. Likes golang, game programming\nand everything Kubernetes."
           commit_message: Update badge
           badge_path: "assets/badge.svg"
           theme: "retro-print"
