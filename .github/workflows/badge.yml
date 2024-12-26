@@ -1,0 +1,29 @@
+name: ci
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * *"
+
+jobs:
+  base-ci:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+    env:
+      GH_PAT: ${{ secrets.GH_PAT }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: datarootsio/github-stats-card@v1
+        name: github-stats-card
+        with:
+          username: quintenbruynseraede
+          gh_token_stats: ${{ env.GH_PAT }}
+          gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
+          header: "👋 Hi, I'm"
+          about: "Data & Cloud Engineer. Likes golang, game programming and everything Kubernetes."
+          commit_message: Update badge
+          badge_path: "assets/badge.svg"
+          theme: "retro-print"
