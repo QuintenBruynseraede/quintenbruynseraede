@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>About me</h3>
+<h3>⚡ About me</h3>
 
 I am working as a Data & Cloud Engineer at [dataroots](https://www.dataroots.io/), where I build data platforms that (hopefully) scale to deal with BIG Data. Preferably on AWS.
 
@@ -25,11 +25,11 @@ I mainly work with:
 - <b>Cloud platforms:</b> AWS
 - <b>IaC:</b> Terraform
 
-## <h3>Interests<h3>
+## <h3>🌱 Interests<h3>
 
 Software engineering • distributed computing • infrastructure as code • event-driven architectures • cloud architecture
 
-## <h3>Projects</h3>
+## <h3>⭐ Projects</h3>
 
 On the side, I like to work on miscellaneous projects, some useful, some not so much.
 
